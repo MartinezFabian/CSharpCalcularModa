@@ -1,0 +1,30 @@
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\bin\Debug\net6.0\Moda.exe
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\bin\Debug\net6.0\Moda.deps.json
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\bin\Debug\net6.0\Moda.runtimeconfig.json
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\bin\Debug\net6.0\Moda.dll
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\bin\Debug\net6.0\Moda.pdb
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.csproj.AssemblyReference.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.AssemblyInfoInputs.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.AssemblyInfo.cs
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.dll
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\refint\Moda.dll
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.pdb
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\Moda.genruntimeconfig.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\Moda\Moda\obj\Debug\net6.0\ref\Moda.dll
+C:\Users\Fabian\Desktop\Moda\Moda\bin\Debug\net6.0\Moda.exe
+C:\Users\Fabian\Desktop\Moda\Moda\bin\Debug\net6.0\Moda.deps.json
+C:\Users\Fabian\Desktop\Moda\Moda\bin\Debug\net6.0\Moda.runtimeconfig.json
+C:\Users\Fabian\Desktop\Moda\Moda\bin\Debug\net6.0\Moda.dll
+C:\Users\Fabian\Desktop\Moda\Moda\bin\Debug\net6.0\Moda.pdb
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.csproj.AssemblyReference.cache
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.AssemblyInfoInputs.cache
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.AssemblyInfo.cs
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.dll
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\refint\Moda.dll
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.pdb
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\Moda.genruntimeconfig.cache
+C:\Users\Fabian\Desktop\Moda\Moda\obj\Debug\net6.0\ref\Moda.dll
